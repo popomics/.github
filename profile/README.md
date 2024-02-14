@@ -1,4 +1,7 @@
-## Hi there 👋
+# Welcome
+
+Welcome to the Bangor pop genomics group github
+
 
 <!--
 
